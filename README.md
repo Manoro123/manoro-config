@@ -1,0 +1,2 @@
+# manoro-config
+Manoro
